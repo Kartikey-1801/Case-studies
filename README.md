@@ -1,1 +1,8 @@
-# This repository contains Case studies on different products 
+# Product Case studies on various problems statements.
+## Mastadon
+<br>
+## Scalnut
+<br>
+## Insaid
+<br>
+## HR-tech
