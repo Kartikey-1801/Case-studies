@@ -1,6 +1,6 @@
 # Product Case studies on various problems statements.
 ## Mastadon
-Improving onboarding and first time user experience
+Improving onboarding and first time user experience./n
 features Suggested - Multiple communities/servers , moderation and Gamification Features , comment threading and mastadon lists and timeline.
 ## Scalnut
 Suggested solutions for organic growth like intoducing CREATENUT tool , upgrading SEO content , improving AI suggestions and imporving repetitive feedback.
